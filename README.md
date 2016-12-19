@@ -3,7 +3,6 @@ using webrtc, iceserver, nodejs
 
 clone this git
 
-install
 
 npm install
 
